@@ -1,0 +1,29 @@
+#shrimp,
+#chicken,
+#bread {
+    background-color: antiquewhite;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+h3 {
+    font-weight: 800;
+}
+
+p,
+li {
+    font-size: large;
+}
+
+img {
+    padding: inherit;
+    margin: auto;
+    width: auto;
+    display: block;
+}
+
