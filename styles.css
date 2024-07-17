@@ -4,3 +4,21 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
 }
+
+div {
+    margin: 0 auto;
+    padding: 0 300px;
+    width: 500px;
+}
+
+#odin-title { 
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: violet;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+}
